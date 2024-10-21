@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate backend developer from Ethiopia</h3>
 
-img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/life-programmer-ukMiDlCmdv2og](https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif?cid=790b7611lahi0iec5i9oe4z717zmy4jayfkzs1xzh25bllfu&ep=v1_gifs_search&rid=giphy.gif&ct=g)"
-
 - 🔭 I’m currently working on **abol school**
 
 - 🌱 I’m currently learning **flutter**
