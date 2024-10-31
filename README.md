@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dereje-getachew.netlify.app/contact](https://dereje-getachew.netlify.app/contact)
 
-- 💬 Ask me about **laravel, MERN**
+- 💬 Ask me about **laravel, MERN, wordpress**
 
 - 📫 How to reach me **getachewdereje128@gmail.com**
 
